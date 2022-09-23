@@ -46,5 +46,3 @@ GROUP BY SolarSystem, Galaxy
 
 ## The Plan
 See the "What doesn't work yet" section
-
-heroku create --buildpack https://github.com/craigkerstiens/heroku-buildpack-static.git my-app
