@@ -1,0 +1,22 @@
+{
+    "name": "elasticsearchtosql",
+    "version": "1.0.0",
+    "description": "",
+    "main": "SqlToElasticSearchConverter.csproj",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/stringshivam/sqltoelasticsearch-query"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/stringshivam/sqltoelasticsearch-queryissues"
+    },
+    "homepage": "https://github.com/stringshivam/sqltoelasticsearch-query#readme",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
